@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pkl
+*.whl
+*.dat
+*.json
+.env
