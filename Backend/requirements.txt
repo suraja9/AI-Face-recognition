@@ -1,0 +1,9 @@
+dlib
+opencv-python
+face-recognition
+numpy
+flask
+firebase-admin
+scikit-learn
+imutils
+scipy
